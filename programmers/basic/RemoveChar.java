@@ -14,7 +14,7 @@ public class RemoveChar {
             if (!letter.contains(Character.toString(c))) {
                 // StringBuilder에 문자 추가
                 sb.append(c);
-            }ㅇ
+            }
         }
         // StringBuilder 객체를 문자열로 변환하여 반환
         return sb.toString();
