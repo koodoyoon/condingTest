@@ -19,4 +19,8 @@ public class RemoveChar {
         // StringBuilder 객체를 문자열로 변환하여 반환
         return sb.toString();
     }
+    public static void main(String[] args) {
+        RemoveChar removeChar = new RemoveChar();
+        System.out.println(removeChar.solution("abcdef","f")); // abcde
+    }
 }
