@@ -14,7 +14,6 @@ public class RepeatString {
                 sb.append(c);
             }
         }
-
         // StringBuilder에 추가된 문자열을 String 형태로 반환합니다.
         return sb.toString();
     }
