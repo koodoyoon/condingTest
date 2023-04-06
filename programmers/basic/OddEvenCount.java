@@ -15,7 +15,6 @@ public class OddEvenCount {
                 odd_count++; // 홀수 개수 1 증가
             }
         }
-
         // 계산된 짝수와 홀수의 개수를 answer 배열에 담아 반환
         answer[0] = even_count; // 짝수 개수
         answer[1] = odd_count; // 홀수 개수
