@@ -20,6 +20,7 @@ public class CutArray {
         }
         return result;
     }
+
     public static void main(String[] args) {
         CutArray cutArray = new CutArray();
         int[] array = {1,2,3,4,5};
