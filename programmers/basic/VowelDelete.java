@@ -21,7 +21,6 @@ public class VowelDelete {
         // StringBuilder 객체를 문자열로 변환하여 반환
         return answer.toString();
     }
-
     public static void main(String[] args) {
         VowelDelete vowelDelete = new VowelDelete();
         System.out.println(vowelDelete.solution("Hello world !")); // Hll wrld !
