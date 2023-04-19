@@ -26,7 +26,6 @@ public class UpperCaseToLowerCase {
     public static void main(String[] args) {
         UpperCaseToLowerCase upperCaseToLowerCase = new UpperCaseToLowerCase();
         String string = "abcdDJNVdedCNDJ";
-        System.out.println(upperCaseToLowerCase.solution(string));
-        // ABCDdjnvDEDcndj
+        System.out.println(upperCaseToLowerCase.solution(string)); // ABCDdjnvDEDcndj
     }
 }
