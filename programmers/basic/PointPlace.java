@@ -13,7 +13,6 @@ public class PointPlace {
         // 입력된 배열 dot에서 x 좌표와 y 좌표를 변수에 저장
         int x = dot[0];
         int y = dot[1];
-
         // x와 y의 부호에 따라 해당하는 사분면의 값을 반환
         if (x > 0 && y > 0) {  // x가 양수이고, y가 양수인 경우
             return 1;
