@@ -11,7 +11,6 @@ public class BackArray {
     public int[] solution(int[] num_list) {
         // 새로운 배열을 생성합니다.
         int[] result = new int[num_list.length];
-
         // 원래 배열의 마지막 인덱스부터 첫 번째 인덱스까지 반복하면서 값을 대입
         for (int i = 0; i < num_list.length; i++) {
             // 새로운 배열의 첫 번째 인덱스부터 마지막 인덱스까지 값을 대입
