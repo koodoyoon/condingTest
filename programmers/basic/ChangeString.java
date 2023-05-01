@@ -18,7 +18,7 @@ public class ChangeString {
 //        string[num1] = string[num2];
 //        string[num2] = temp;
 //        return string;
-        // 고친 코드
+        // 수정 코드
         String answer = "";
         char[] c = my_string.toCharArray();
 //        char temp = c[num1];
