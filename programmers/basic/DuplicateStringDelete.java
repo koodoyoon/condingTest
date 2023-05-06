@@ -16,7 +16,6 @@ public class DuplicateStringDelete {
             }
         }
         return answer.toString();
-
     }
     public static void main(String[] args) {
         DuplicateStringDelete duplicateStringDelete = new DuplicateStringDelete();
