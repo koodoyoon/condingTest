@@ -23,7 +23,7 @@ public class PointPlace {
         } else {  // x가 양수이고, y가 음수인 경우
             return 4;
         }
-        // 삼항연산자로 더 간단하게 작성하기
+        // 삼항연산자로 더 간단하게 작성
         // return dot[0] > 0 ? (dot[1] > 0 ? 1 : 4) : (dot[1] > 0 ? 2 : 3);
     }
     public static void main(String[] args) {
