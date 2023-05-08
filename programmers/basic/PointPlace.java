@@ -29,6 +29,6 @@ public class PointPlace {
     public static void main(String[] args) {
         PointPlace pointPlace = new PointPlace();
         int[] array = {3,-5};
-        System.out.println(pointPlace.solution(array));
+        System.out.println(pointPlace.solution(array)); // 4
     }
 }
