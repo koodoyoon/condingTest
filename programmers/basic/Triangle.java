@@ -22,6 +22,6 @@ public class Triangle {
     public static void main(String[] args) {
         int[] array = {3, 6, 2};
         Triangle triangle = new Triangle();
-        System.out.println(triangle.solution(array));
+        System.out.println(triangle.solution(array)); // 2
     }
 }
