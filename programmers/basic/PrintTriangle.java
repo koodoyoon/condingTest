@@ -13,7 +13,8 @@ public class PrintTriangle {
         int n = sc.nextInt();
         String star = "*";
         for (int i = 1; i <= n; i++) {
-            System.out.println(star.repeat(i));
+//            System.out.println(star.repeat(i));
+            // 자바 11 이상
         }
     }
 }
