@@ -9,3 +9,5 @@ R
 "programmers/basic/DoubleArray.java,d\f\dfe128b28f472202c1a1771d22446a6af12790e4
 P
  programmers/basic/Factorial.java,0\9\09b3037d14bb3033551fc0d84f756b436510c171
+P
+ programmers/basic/Emergency.java,c\d\cdccf493e82fc3013e84f12997144773ac47907c
