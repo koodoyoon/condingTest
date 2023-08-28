@@ -1,5 +1,7 @@
 package programmers.basic;
 
+import java.util.Scanner;
+
 public class Ufo {
     public static void main(String[] args) {
         String[] a = {"z", "d", "x"};

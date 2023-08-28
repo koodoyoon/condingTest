@@ -13,23 +13,5 @@ P
  programmers/basic/Emergency.java,c\d\cdccf493e82fc3013e84f12997144773ac47907c
 W
 'programmers/basic/HiddenNumberPlus.java,b\7\b7a9a8d5c5459d2900d9843d5ea717f942691d52
-W
-'programmers/basic/EnglishToInteger.java,e\8\e8226205acd93deafd1682da36aae0d7f7c15ac0
-W
-'programmers/basic/CompleteTriangle.java,1\c\1c53173508715826d4bec9e549ca21ca5250c983
 Q
 !programmers/basic/OnceAppear.java,d\9\d996734a81943dc4efe8f130102cdf83d93448e3
-O
-programmers/basic/ControlZ.java,b\8\b88e8d36269197df86734486a457e9c54d58267d
-Q
-!programmers/basic/Factorial2.java,9\c\9cbee4c57e4ab3376969325564180d5813a5aac2
-[
-+programmers/basic/CutStringInsertArray.java,3\4\342f3bb2b24c11340e2bbbbbbf03d40e1aea3901
-P
- programmers/basic/BinarySum.java,b\c\bcdb7258a0dba72d1a3bfcfa1107d33647ad03c8
-Q
-!programmers/basic/CalcString.java,4\3\43a787469901349220f88f461b98c634ef1ad4b4
-P
- programmers/basic/ThrowBall.java,5\0\508b59c7063e3962307b5ed5754ab594540f36d3
-J
-programmers/basic/Ufo.java,4\7\47b31b47cb32b44492ed32fbfa6d5c4a9cc18787

@@ -11,3 +11,5 @@ P
  programmers/basic/Factorial.java,0\9\09b3037d14bb3033551fc0d84f756b436510c171
 P
  programmers/basic/Emergency.java,c\d\cdccf493e82fc3013e84f12997144773ac47907c
+W
+'programmers/basic/HiddenNumberPlus.java,b\7\b7a9a8d5c5459d2900d9843d5ea717f942691d52
