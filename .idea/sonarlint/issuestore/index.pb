@@ -15,3 +15,7 @@ W
 'programmers/basic/HiddenNumberPlus.java,b\7\b7a9a8d5c5459d2900d9843d5ea717f942691d52
 Q
 !programmers/basic/OnceAppear.java,d\9\d996734a81943dc4efe8f130102cdf83d93448e3
+P
+ programmers/basic/BinarySum.java,b\c\bcdb7258a0dba72d1a3bfcfa1107d33647ad03c8
+O
+programmers/basic/ControlZ.java,b\8\b88e8d36269197df86734486a457e9c54d58267d
