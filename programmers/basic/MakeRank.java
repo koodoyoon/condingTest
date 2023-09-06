@@ -1,32 +1,27 @@
 package programmers.basic;
 
+import java.util.Arrays;
+
 public class MakeRank {
     public static int[] solution(int[][] score) {
-        int n = score.length;
-        int[] answer = new int[n];
-        int[] result = new int[n];
+        int length = score.length;
+        int[] answer = new int[length];
+        double[] avg = new double[length];
 
-        for (int i = 0; i < n; i++) {
-            answer[i] = (score[i][0] + score[i][1]) / 2;
+        for (int i = 0; i < length; i++) {
+            avg[i] = (score[i][0] + score[i][1]) / 2.0;
         }
-        
-        int[] sortedAnswer = answer.clone();
-        java.util.Arrays.sort(sortedAnswer);
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (answer[i] == sortedAnswer[j]) {
-                    result[i] = n - j;
-                    sortedAnswer[j] = -1;
-                    break;
+        for (int i = 0; i < length; i++) {
+            for (int j = 0; j < length; j++) {
+                if (avg[i] < avg[j]) {
+                    answer[i]++;
                 }
             }
+            answer[i]++;
         }
 
-        for (int r : result) {
-            System.out.println(r);
-        }
-        return result;
+        return answer;
     }
 
     public static void main(String[] args) {
