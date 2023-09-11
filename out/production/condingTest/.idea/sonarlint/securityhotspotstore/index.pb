@@ -19,3 +19,5 @@ P
  programmers/basic/BinarySum.java,b\c\bcdb7258a0dba72d1a3bfcfa1107d33647ad03c8
 O
 programmers/basic/ControlZ.java,b\8\b88e8d36269197df86734486a457e9c54d58267d
+P
+ programmers/basic/ThrowBall.java,5\0\508b59c7063e3962307b5ed5754ab594540f36d3
