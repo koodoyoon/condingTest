@@ -41,3 +41,17 @@ J
 programmers/basic/Ufo.java,4\7\47b31b47cb32b44492ed32fbfa6d5c4a9cc18787
 T
 $programmers/basic/ChickenCoupon.java,e\d\ed8276483030645ec857811702c50766a6974469
+X
+(programmers/basic/interfacePrac/Dog.java,8\e\8e943a6d5a8c8b24cbce466460fcfc9895110a59
+W
+'programmers/basic/abstractPrac/Dog.java,7\b\7b6239fd72a52295b63d52c942777d2286431059
+W
+'programmers/basic/abstractPrac/Cat.java,9\c\9caa860ce09230a210a6842147ea80ee6ad19c60
+Z
+*programmers/basic/abstractPrac/Animal.java,6\7\67e15b534a2e9376b9cd3cd1e9ef5095f144497c
+X
+(programmers/basic/abstractPrac/Main.java,d\4\d49531a4447cbaa867e2f11e3596cc4b6314b617
+S
+#programmers/basic/InfiniteSosu.java,4\0\40145d52082e049f9082b6b2ac03ef7fbf690639
+Z
+*programmers/basic/extendsPrac/Parents.java,0\c\0c19bc7a6f46fe84d4c485cd52247e0d1458b6bc

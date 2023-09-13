@@ -21,3 +21,23 @@ O
 programmers/basic/ControlZ.java,b\8\b88e8d36269197df86734486a457e9c54d58267d
 P
  programmers/basic/ThrowBall.java,5\0\508b59c7063e3962307b5ed5754ab594540f36d3
+W
+'programmers/basic/EnglishToInteger.java,e\8\e8226205acd93deafd1682da36aae0d7f7c15ac0
+W
+'programmers/basic/CompleteTriangle.java,1\c\1c53173508715826d4bec9e549ca21ca5250c983
+Q
+!programmers/basic/Factorial2.java,9\c\9cbee4c57e4ab3376969325564180d5813a5aac2
+T
+$programmers/basic/ChickenCoupon.java,e\d\ed8276483030645ec857811702c50766a6974469
+[
++programmers/basic/CutStringInsertArray.java,3\4\342f3bb2b24c11340e2bbbbbbf03d40e1aea3901
+V
+&programmers/basic/ReplaceLanguage.java,6\5\65813017cd8dd9032121998e1f99bef6f5905fec
+O
+programmers/basic/MakeRank.java,b\0\b0ff899137d122014ca748311c6fbc1362218ef8
+Q
+!programmers/basic/CalcString.java,4\3\43a787469901349220f88f461b98c634ef1ad4b4
+Q
+!programmers/basic/MovingGame.java,1\c\1c8b19ca4d4b0aa5694622fc8d702a77b41d19fa
+J
+programmers/basic/Ufo.java,4\7\47b31b47cb32b44492ed32fbfa6d5c4a9cc18787

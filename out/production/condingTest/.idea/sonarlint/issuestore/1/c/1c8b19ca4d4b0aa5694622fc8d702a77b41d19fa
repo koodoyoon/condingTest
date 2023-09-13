@@ -1,0 +1,6 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Σ°ϊΈ8…ΰώσ£1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ή²…Οόÿÿÿÿ8ΰώσ£1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(ξ–Ιόÿÿÿÿ8‘ΰώσ£1
