@@ -55,3 +55,5 @@ X
 (programmers/basic/abstractPrac/Main.java,d\4\d49531a4447cbaa867e2f11e3596cc4b6314b617
 S
 #programmers/basic/InfiniteSosu.java,4\0\40145d52082e049f9082b6b2ac03ef7fbf690639
+Q
+!programmers/basic/PushString.java,b\3\b3b8dc12a95fccea5584d189508cb403aee38800

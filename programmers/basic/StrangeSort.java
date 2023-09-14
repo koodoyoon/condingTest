@@ -1,22 +1,22 @@
 package programmers.basic;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.Comparator;
 
 public class StrangeSort {
     public static int[] solution(int[] numlist, int n) {
         int[] answer = new int[numlist.length];
-
-        Map<Integer, Integer> map = new HashMap<>();
+        int[][] array = new int[numlist.length][];
 
         for (int i = 0; i < numlist.length; i++) {
-            map.put(numlist[i]-n, numlist[i]);
-        }
-        for (int i = 0; i < numlist.length; i++) {
-            System.out.println(map.get(Math.abs(numlist[i]-n)));
+            array[i] = new int[]{numlist[i], Math.abs(numlist[i] - n)};
         }
 
+        Arrays.sort(array, (o1, o2) -> o1[1] == o2[1] ? o2[0] - o1[0] : o1[1] - o2[1]);
+
+        for (int i = 0; i < numlist.length; i++) {
+            answer[i] = array[i][0];
+        }
 
         return answer;
     }
